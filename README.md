@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome!;Hey+everyone!+I+am+Alex+Junior+;I+am+18+years+old;A+Front-End+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome!;Hey+everyone!+I+am+Alex+Junior+;I+am+18+years+old;A+Front-End+Developer!)](https://git.io/typing-svg)
 <br>
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexjrFS&bg_color=transparent&color=e6e6e6&line=0581f5&point=1a1aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
