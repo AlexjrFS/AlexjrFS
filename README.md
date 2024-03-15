@@ -23,7 +23,7 @@
   <img align = "center" alt="Alex-REACT" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align = "center" alt="Alex-MYSQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align = "center" alt="Alex-FIGMA" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"" />
-  <img align = "center" alt="Maria-CSS" height="35" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+  <img align = "center" alt="Alex-CSS" height="35" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </div>
 <br>
 <h2>Contact:</h2>
