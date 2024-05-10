@@ -12,7 +12,7 @@
 
   <br>
   <br>
-   <h2>I am courrently learning about: </h2>  
+ <h2>I am courrently learning about: </h2>  
 <div > 
   <img align = "center" alt="Alex-TS" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align = "center" alt="Alex-JS" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -24,7 +24,7 @@
   <img align = "center" alt="Alex-MYSQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align = "center" alt="Alex-FIGMA" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"" />
   <img align = "center" alt="Alex-CSS" height="35" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-</div>
+</div> 
 <br>
 <h2>Contact:</h2>
 <div>
