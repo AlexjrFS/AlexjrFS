@@ -5,6 +5,12 @@
   Computer Science student working at the intersection of software and hardware, from firmware on microcontrollers to mobile apps and backend services.
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub contribution graph in 3D" width="100%" />
+</p>
+
+<!-- Previous stats widgets (hosted on Vercel, were not loading). Kept here to restore if needed.
+
 [![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexjrFS&bg_color=transparent&color=e6e6e6&line=0581f5&point=1a1aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
@@ -15,6 +21,7 @@
   </a>
 </div>
 <br>
+-->
 
 ## 👨‍💻 About Me
 
