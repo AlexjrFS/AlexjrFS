@@ -5,6 +5,17 @@
   Computer Science student working at the intersection of software and hardware, from firmware on microcontrollers to mobile apps and backend services.
 </p>
 
+[![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexjrFS&bg_color=transparent&color=e6e6e6&line=0581f5&point=1a1aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/AlexjrFS">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=AlexjrFS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexjrFS&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
+<br>
+
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a Bachelor's degree in **Computer Science** at **IFSP Salto Campus**
